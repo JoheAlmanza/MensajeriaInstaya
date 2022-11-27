@@ -25,7 +25,7 @@ function Register() {
                         </div>
                       </div>
                       
-                      <div id="emailHelp" class="form-text">Nunca compartiremos tu nombre de Usuario.</div>
+                      <div id="emailHelp" class="form-text">Nunca compartiremos tu nombre de Usuario</div>
                     </div>
                     <div class="mb-3">
                       <label for="exampleInputPassword1" class="form-label">Contraseña</label>
